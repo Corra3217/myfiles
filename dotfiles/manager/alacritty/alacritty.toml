@@ -1,0 +1,11 @@
+[font]
+size = 12  
+
+[font.normal]
+style = "normal"
+
+[window]
+opacity = 0.8 
+
+[general]
+import = [ "themes/dark_pride.toml" ]
